@@ -1,0 +1,29 @@
+name: BuildWebsite
+
+on:
+  workflow_dispatch:
+
+jobs:
+  fetch-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Create or Update Log
+        run: |
+          echo "Workflow build website at $(date -u) ($GITHUB_REF_NAME)" >> log.txt
+
+      - name: Configure Git
+        run: |
+          git config --global user.name "CodeCat[agent]"
+          git config --global user.email "codecat.tw@gmail.com"
+
+      - name: Commit and Push changes
+        run: |
+          git add log.txt
+          git commit -m "Build website (by agent action)"
+          git push -f
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
