@@ -1537,51 +1537,6 @@ a {
 .cid-tJS9NNcTLZ .mbr-section-title {
   color: #ffffff;
 }
-.cid-uNxD1d1Rki {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #edefeb;
-}
-.cid-uNxD1d1Rki .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-uNxD1d1Rki .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-uNxD1d1Rki .card-wrapper {
-  background: #ffffff;
-}
-@media (max-width: 767px) {
-  .cid-uNxD1d1Rki .card-wrapper {
-    padding: 2rem 1.5rem;
-  }
-}
-@media (min-width: 768px) and (max-width: 991px) {
-  .cid-uNxD1d1Rki .card-wrapper {
-    padding: 2.25rem;
-  }
-}
-@media (min-width: 992px) {
-  .cid-uNxD1d1Rki .card-wrapper {
-    padding: 4rem;
-  }
-}
-.cid-uNxD1d1Rki .mbr-text,
-.cid-uNxD1d1Rki .mbr-section-btn {
-  color: #000000;
-  text-align: left;
-}
-.cid-uNxD1d1Rki .card-title,
-.cid-uNxD1d1Rki .card-box {
-  text-align: left;
-  color: #000000;
-}
 .cid-tJS6tZXiPa {
   z-index: 1000;
   width: 100%;
@@ -2141,6 +2096,51 @@ a {
   .cid-tJS6tZXiPa .navbar-collapse {
     padding: 1rem;
   }
+}
+.cid-uNxD1d1Rki {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #edefeb;
+}
+.cid-uNxD1d1Rki .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-uNxD1d1Rki .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-uNxD1d1Rki .card-wrapper {
+  background: #ffffff;
+}
+@media (max-width: 767px) {
+  .cid-uNxD1d1Rki .card-wrapper {
+    padding: 2rem 1.5rem;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .cid-uNxD1d1Rki .card-wrapper {
+    padding: 2.25rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-uNxD1d1Rki .card-wrapper {
+    padding: 4rem;
+  }
+}
+.cid-uNxD1d1Rki .mbr-text,
+.cid-uNxD1d1Rki .mbr-section-btn {
+  color: #000000;
+  text-align: left;
+}
+.cid-uNxD1d1Rki .card-title,
+.cid-uNxD1d1Rki .card-box {
+  text-align: left;
+  color: #000000;
 }
 .cid-tJS9NNcTLZ {
   padding-top: 6rem;
