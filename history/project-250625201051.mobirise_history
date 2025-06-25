@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "臺灣FRC",
-    "currentPage": "Sponsors.html",
+    "currentPage": "2025NTWC.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -1237,7 +1237,7 @@
     },
     "Sponsors.html": {
       "settings": {
-        "title": "Sponsors/贊助者",
+        "title": "2025NTWC Sponsors/贊助者",
         "order": "2"
       },
       "components": [
