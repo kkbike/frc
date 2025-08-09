@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "臺灣FRC",
-    "currentPage": "index.html",
+    "currentPage": "Sponsors.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -55,7 +55,7 @@
     "imageResize": true,
     "chatbutton": {},
     "favicon": false,
-    "mbrsiteDomain": "fdnmbqjyqx",
+    "mbrsiteDomain": "hw7rnh0eax",
     "usedWebp": false,
     "cssOptimize": false,
     "lazyLoad": false,
@@ -69,8 +69,7 @@
     "screenshot": "screenshot.png",
     "publishChangesOnly": true,
     "publishType": "local",
-    "publishPath": "@PROJECT_PATH@",
-    "google-analytics": "<a href=\"javascript:location.href='https://publicca.hinet.net/SSLQueryCert/ SSLQueryCert.jsp?Domain_name='+document.location.hostname\">\n<img src=\"SSLSeal.gif\" width=\"90\" height=\"126\"/>\n</a>"
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
