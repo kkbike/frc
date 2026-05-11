@@ -68,6 +68,8 @@
     "pwa-switcher": false,
     "screenshot": "screenshot.png",
     "publishChangesOnly": true,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@",
     "google-analytics": "<a href=\"javascript:location.href='https://publicca.hinet.net/SSLQueryCert/ SSLQueryCert.jsp?Domain_name='+document.location.hostname\">\n\n</a>"
   },
   "pages": {
